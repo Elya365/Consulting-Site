@@ -1,2 +1,2 @@
 # Consulting-Site
-My consulting webiste
+My consulting website
