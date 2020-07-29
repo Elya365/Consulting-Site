@@ -50,6 +50,7 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
+
   content: <p class="lead">
     I'm a business owner with 9+ years experience in marketing. Through ups, downs & many
     lessons learned along the way I simply like to help. Basically, I support businesses
@@ -86,7 +87,7 @@ education:
 
 # experience
 experience:
-  enable: true
+  enable: false
   title: "Experience"
   description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
   button:
@@ -112,7 +113,7 @@ experience:
       duration: "Jun 2009 - Mar 2010"
 
 # services
-experience:
+services:
   enable: true
   title: "Services"
   description: "I've found my flow helping with all things digital for 9+ years. In what seems like an ever evolving space; that's ages. I simply like to help with the skills I've developed and the lessons I've learned along the way. I'm damned good at it too."
@@ -243,7 +244,8 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "#"
+    enable: false
+    action: "mailto:elyasimukka@gmail.com"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
@@ -254,8 +256,8 @@ contact:
     title: "Email"
     email: '<a href="mailto:elyasimukka@gmail.com">elyasimukka@gmail.com</a>'
   address:
-    title: "Address"
-    address: "Simukka Consulting<br />Oslo, Norway"
+    title: "Location"
+    address: "Oslo, Norway"
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"

@@ -31,9 +31,14 @@ theme = "raditian-hugo-theme-master"
   URL = "#about"
   weight = 2
 
+  # [[menu.header]]
+  # name = "Portfolio"
+  # URL = "#portfolio"
+  # weight = 3
+
   [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Services"
+  URL = "#services"
   weight = 3
 
   [[menu.header]]
@@ -47,9 +52,14 @@ theme = "raditian-hugo-theme-master"
   URL = "#about"
   weight = 2
 
+  # [[menu.footer]]
+  # name = "Portfolio"
+  # URL = "#portfolio"
+  # weight = 3
+
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Services"
+  URL = "#services"
   weight = 3
 
   [[menu.footer]]
