@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://elyasimukka.com/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/experience/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/footer/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/testimonials/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/use-case/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/values/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/</loc>
+  </url>
+  
+  <url>
+    <loc>http://elyasimukka.com/tags/</loc>
+  </url>
+  
+</urlset>
