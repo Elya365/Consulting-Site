@@ -3,12 +3,12 @@ showcase:
   enable: true
   title: "Hello, I’m Elya."
   subtitle: "Digital Marketer"
-  description: "I'm the founder of <a target='_blank' href='http://elyasimukka.com/'>Simukka Consulting</a>, a digital marketing company based in Oslo, Norway. And I'm finding where smart creativity, technical marketing & pure awesome overlap. Let's get started!"
+  description: "Grunt at <a target='_blank' href='http://elyasimukka.com/'>Simukka Consulting</a>, a digital marketing company based in Oslo, Norway. And I'm finding where smart creativity, technical marketing & pure awesome overlap. Let's get started!"
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash.png"
+    _2x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-2x.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-2x.png"
 
   button:
     icon: "icon-mail-fill"
@@ -145,7 +145,7 @@ experience:
 # Client & Work
 client_and_work:
   title: "Clients & Works"
-  enable: true
+  enable: false
 
   clients:
     - logo:
@@ -219,21 +219,21 @@ testimonial:
   items:
     - name: "Jessica Seidel"
       position: "Pahlisch Homes, Director of Marketing"
-      content: "I have never met anyone that has such focus and dedication to a project as Elya. I have seen her manage large teams of sales people, plan and execute large events and strategize on in-depth digital marketing campaigns. I would highly recommend her to any professional organization."
+      content: "I've never met anyone that has such focus and dedication to a project as Elya. I've seen her manage large teams of sales people, plan and execute large events and strategize on in-depth digital marketing campaigns. I would highly recommend her to any professional organization."
       image:
         x: "img/testimonials/daniel-jordan.jpg"
         _2x: "img/testimonials/daniel-jordan@2x.jpg"
 
     - name: "Jason Myhre"
       position: "Pahlisch Homes, Marketing Manager"
-      content: "I worked closely with her over and witnessed firsthand the excellence that she brings to her role. Her attention to detail, strategic thinking, drive for continuous learning and strong communication skills make her a valued asset."
+      content: "I worked closely with Elya and witnessed firsthand the excellence that she brings. Her attention to detail, strategic thinking, drive for continuous learning and strong communication skills make her a valued asset."
       image:
         x: "img/testimonials/jonathan-peters.jpg"
         _2x: "img/testimonials/jonathan-peters@2x.jpg"
 
-    - name: "Rachel Loveday"
-      position: "Home Builders Association, Director of Events"
-      content: "Elya was clear and organized, and seemed to anticipate everything I needed from her before I had a chance to request it. She has a strong sense of brand identity and the strategy behind maintaining as well as expanding that identity. I would work again with Elya on any project in a heartbeat."
+    - name: "Jess Columbo"
+      position: "Tiller Marketing Agency, Founder"
+      content: "Elya's rich expertise in SEO and digital advertising adds a great deal to our practice & to our clients' program success. I recommend her technical marketing services to any team looking for a partner who cares deeply about your goals, quality of work delivered, & about taking good care of relationships with colleagues and clients."
       image:
         x: "img/testimonials/antonio-willis.jpg"
         _2x: "img/testimonials/antonio-willis@2x.jpg"
@@ -262,7 +262,7 @@ contact:
 
 # newsletter
 newsletter:
-  enable: true
+  enable: false
   title: "Newsletter subscription"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."

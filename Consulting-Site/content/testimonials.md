@@ -12,7 +12,7 @@ Louder Than Digital, VP of Marketing
 Jason Myhre
 Pahlisch Homes, Marketing Manager
 
->“Elya was clear and organized, and seemed to anticipate everything I needed from her. She has a strong sense of >brand identity and the strategy for expanding that identity. I would work again with Elya on any project in a >heartbeat.”
+>"Elya's rich expertise in SEO and digital advertising adds a great deal to our practice & to our clients' program success. I recommend her technical marketing services to any team looking for a partner who cares deeply about your goals, quality of work delivered, & about taking good care of relationships with colleagues and clients."”
 >
-Rachel Loveday
-HBA Portland, Director of Events
+Jess Columbo
+Founder, Tiller Marketing Agency
