@@ -1,14 +1,14 @@
 # showcase
 showcase:
   enable: true
-  title: "Hello, I’m Elya."
-  subtitle: "Digital Marketer"
-  description: "Grunt at <a target='_blank' href='http://elyasimukka.com/'>Simukka Consulting</a>, a digital marketing company based in Oslo, Norway. And I'm finding where smart creativity, technical marketing & pure awesome overlap. Let's get started!"
+  title: "I’m Elya Simukka. Hi."
+  subtitle: "I consult with agencies."
+  description: "Agencies trust me to be a contributing partner on their most valuable work. I'm a digital marketing consultant. Find greater confidence in your next project when you work with me."
   image:
     x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash.png"
     _2x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-2x.png"
   imageMobile:
-    x: "img/showcase/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-2x.png"
+    x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-mobile.png"
 
   button:
     icon: "icon-mail-fill"
@@ -52,21 +52,30 @@ about:
   title: "Who am I?"
 
   content: <p class="lead">
-    I'm a business owner with 9+ years experience in marketing. Through ups, downs & many
-    lessons learned along the way I simply like to help. Basically, I support businesses
-    with all things digital to effectively reach more humans.
+    I white label my SEO and technical marketing services to agencies that want better client outcomes. I've been at this for 9+ years.
     </p>
     <p class="lead">
-    When I'm not working, you can find me eating tacos, probably.
+    When marketing agencies need to round out their client offerings with SEO services and more, I can help. Together we get essential work done, & done well.
     </p>
     <p class="lead">
-    How can I make sense of the confusing world of digital marketing for you while doing
-    smart work that better positions your business? That's my mission. I support businesses
-    with digital marketing to effectively reach more humans. Let's never stop optimizing.
+    It's a win-win.
     </p>
+    <p class="lead">
+    Right now, I still have some capacity. Want to work together?
+    </p>
+    <p class="lead">
+    Skip to the good stuff, and claim your call.
+    </p>
+    <p class="lead">
+    <a href="https://calendly.com/elyasimukka/15min" target="_blank">Schedule With Elya using Calendly</a>
+    </p>
+    <p class="lead">
+    When I'm not working, you can find me eating tacos. Probably.
+    </p>
+
   button:
     icon: "icon-smile-fill"
-    btnText: "About Me"
+    btnText: "More About Me"
     URL: "https://www.linkedin.com/in/elyasimukka"
   image:
     x: "img/who-am-i/user-picture.png"
@@ -220,7 +229,7 @@ testimonial:
   items:
     - name: "Jessica Seidel"
       position: "Signify Agency, Owner"
-      content: "I've never met anyone that has such focus and dedication to a project as Elya. I've seen her manage large teams of sales people and strategize on in-depth digital marketing campaigns. I would highly recommend her to any professional organization."
+      content: "I've never met anyone that has such focus and dedication to a project as Elya. I've seen her manage large teams of sales people and strategize on in-depth digital marketing campaigns. I highly recommend her to any professional organization."
       image:
         x: "img/testimonials/Jessica_Seidel_pahlisch_homes.png"
         _2x: "img/testimonials/Jessica_Seidel_pahlisch_homes_2x.png"
@@ -234,7 +243,7 @@ testimonial:
 
     - name: "Jess Columbo"
       position: "Tiller Marketing Agency, Founder"
-      content: "Elya's rich expertise in SEO and digital advertising adds a great deal to our practice & to our clients' program success. I recommend her technical marketing services to any team looking for a partner who cares deeply about your goals, quality of work delivered, & about taking good care of relationships with colleagues and clients."
+      content: "Elya's rich expertise in SEO and digital advertising adds a great deal to our practice & to our clients' program success. I recommend her technical marketing services to any team looking for a partner who cares deeply about goals, quality of work delivered, & about taking good care of relationships with colleagues and clients."
       image:
         x: "img/testimonials/Jess_Columbo_Tiller_Marketing.png"
         _2x: "img/testimonials/Jess_Columbo_Tiller_Marketing_2x.png"
