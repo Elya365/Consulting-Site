@@ -219,25 +219,25 @@ testimonial:
   title: "Testimonials"
   items:
     - name: "Jessica Seidel"
-      position: "Pahlisch Homes, Director of Marketing"
-      content: "I've never met anyone that has such focus and dedication to a project as Elya. I've seen her manage large teams of sales people, plan and execute large events and strategize on in-depth digital marketing campaigns. I would highly recommend her to any professional organization."
+      position: "Signify Agency, Owner"
+      content: "I've never met anyone that has such focus and dedication to a project as Elya. I've seen her manage large teams of sales people and strategize on in-depth digital marketing campaigns. I would highly recommend her to any professional organization."
       image:
-        x: "img/testimonials/daniel-jordan.jpg"
-        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+        x: "img/testimonials/Jessica_Seidel_pahlisch_homes.png"
+        _2x: "img/testimonials/Jessica_Seidel_pahlisch_homes_2x.png"
 
     - name: "Jason Myhre"
       position: "Pahlisch Homes, Marketing Manager"
       content: "I worked closely with Elya and witnessed firsthand the excellence that she brings. Her attention to detail, strategic thinking, drive for continuous learning and strong communication skills make her a valued asset."
       image:
-        x: "img/testimonials/jonathan-peters.jpg"
-        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+        x: "img/testimonials/Jason_Myhre.png"
+        _2x: "img/testimonials/Jason_Myhre_2x.png"
 
     - name: "Jess Columbo"
       position: "Tiller Marketing Agency, Founder"
       content: "Elya's rich expertise in SEO and digital advertising adds a great deal to our practice & to our clients' program success. I recommend her technical marketing services to any team looking for a partner who cares deeply about your goals, quality of work delivered, & about taking good care of relationships with colleagues and clients."
       image:
-        x: "img/testimonials/antonio-willis.jpg"
-        _2x: "img/testimonials/antonio-willis@2x.jpg"
+        x: "img/testimonials/Jess_Columbo_Tiller_Marketing.png"
+        _2x: "img/testimonials/Jess_Columbo_Tiller_Marketing_2x.png"
 
 # contact
 contact:
@@ -245,7 +245,7 @@ contact:
   title: "Contact"
   form:
     enable: false
-    action: "mailto:elyasimukka@gmail.com"
+    action: "mailto:elyasimukka+contactform@gmail.com"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
@@ -254,7 +254,7 @@ contact:
     number: "+47 92 31 51 30"
   email:
     title: "Email"
-    email: '<a href="mailto:elyasimukka@gmail.com">elyasimukka@gmail.com</a>'
+    email: '<a href="mailto:elyasimukka+contactform@gmail.com">elyasimukka@gmail.com</a>'
   address:
     title: "Location"
     address: "Oslo, Norway"
