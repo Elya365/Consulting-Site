@@ -125,30 +125,38 @@ experience:
 services:
   enable: true
   title: "Services"
-  description: "I've found my flow helping with all things digital for 9+ years. In what seems like an ever evolving space; that's ages. I simply like to help with the skills I've developed and the lessons I've learned along the way. I'm damned good at it too."
+  description: "Agencies collaborate with me to help with challenging online marketing projects. I blend with teams as a contributor and thought partner with the following services."
   button2:
     icon: "icon-profile-fill"
-    btnText: "Download My Services"
+    btnText: "Print My Services"
     URL: "#"
 
   items:
     - title: "Digital Marketing Strategy"
       company: ""
-      duration: "The whole package:"
+      duration: "Core Services:"
 
-    - title: "Analytics"
-      company: ""
-      duration: "Available A la Carte:"
+    - title: "Search Engine Optimization (SEO)"
+      company: "with emphasis on technical, local & content SEO"
+      duration: ""
 
-    - title: "SEO"
+    - title: "Web Analytics"
       company: ""
       duration: ""
 
-    - title: "Digital Advertising"
+    - title: "Reporting & Dashboards"
       company: ""
       duration: ""
 
-    - title: "Digital Marketing Audits"
+    - title: "Website Conversion Rate Optimization (CRO) & User Experience (UX)"
+      company: ""
+      duration: ""
+
+    - title: "Digital Advertising (Search, Native, Social Media)"
+      company: ""
+      duration: "Other Services:"
+
+    - title: "Social Media Strategy"
       company: ""
       duration: ""
 
