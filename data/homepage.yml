@@ -13,7 +13,7 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contact"
-    URL: "http://elyasimukka.com/"
+    URL: "mailto:elyasimukka+contactform@gmail.com"
 
   socialLinks:
     - icon: "linkedin"
@@ -159,6 +159,28 @@ services:
     - title: "Social Media Strategy"
       company: ""
       duration: ""
+
+# values
+education:
+  enable: true
+  title: "Values"
+  description: "hi, this is a test."
+  items:
+    - university: "Default to Transparency"
+      year: ""
+      degree: "Be up-front about what I do and how it’s done. Help when I can, refer when I can’t."
+
+    - university: "Try easier"
+      year: ""
+      degree: "Apply lean principles. Work smarter, not harder."
+
+    - university: "Respect & Empathy Are Non-negotiable"
+      year: ""
+      degree: ""
+
+    - university: "Be an Ally for Access"
+      year: ""
+      degree: "Promote web accessibility best practices. Give stakeholders access & education. Consider the bots; so write an effective robots.txt file, etc."  
 
 # Client & Work
 client_and_work:

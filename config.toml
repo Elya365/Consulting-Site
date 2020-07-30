@@ -1,6 +1,6 @@
 baseURL = "http://elyasimukka.com/"
 languageCode = "en-us"
-title = "Digital & Technical Marketing | Never Not Optimizing"
+title = "Digital & Technical Marketing for Agencies | Always Optimizing"
 theme = "raditian-hugo-theme-master"
 
 # Plugins
@@ -70,14 +70,14 @@ theme = "raditian-hugo-theme-master"
 
 [params]
 
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  googleTagManagerID = "GTM-MGKB7TW" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Simukka"
+    text1 = "Elya Simukka"
     text2 = "Consulting"
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "© Elya Simukka. All rights reserved 2020."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
