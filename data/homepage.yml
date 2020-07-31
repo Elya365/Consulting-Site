@@ -1,7 +1,7 @@
 # showcase
 showcase:
   enable: true
-  title: "I’m Elya Simukka. Hi."
+  title: "Hi, I’m Elya Simukka."
   subtitle: "I consult with agencies."
   description: "Agencies trust me to be a contributing partner on their most valuable work. I'm a digital marketing consultant. Find greater confidence in your next project when you work with me."
   image:
@@ -19,32 +19,14 @@ showcase:
     - icon: "linkedin"
       URL: "https://www.linkedin.com/in/elyasimukka"
 
+    - icon: "instagram"
+      URL: "https://www.instagram.com/simukkaconsulting/"
+
     - icon: "github"
       URL: "https://github.com/elya365"
 
     - icon: "twitter"
       URL: "https://twitter.com/elya365"
-
-    - icon: "dribbble"
-      URL: "#"
-
-    - icon: "behance"
-      URL: "#"
-
-    - icon: "youtube"
-      URL: "#"
-
-    - icon: "instagram"
-      URL: "https://www.instagram.com/simukkaconsulting/"
-
-    - icon: "facebook"
-      URL: "#"
-
-    - icon: "codepen"
-      URL: "#"
-
-    - icon: "yelp"
-      URL: "#"
 
 # about
 about:
@@ -180,7 +162,7 @@ education:
 
     - university: "Be an Ally for Access"
       year: ""
-      degree: "Promote web accessibility best practices. Give stakeholders access & education. Consider the bots; so write an effective robots.txt file, etc."  
+      degree: "Promote web accessibility best practices. Give stakeholders access & education. Consider the bots; so write an effective robots.txt file, etc."
 
 # Client & Work
 client_and_work:
@@ -300,6 +282,18 @@ contact:
   button:
     icon: "icon-mail-fill"
     btnText: "Send Message"
+  socialLinks:
+  - icon: "linkedin"
+    URL: "https://www.linkedin.com/in/elyasimukka"
+
+  - icon: "instagram"
+    URL: "https://www.instagram.com/simukkaconsulting/"
+
+  - icon: "github"
+    URL: "https://github.com/elya365"
+
+  - icon: "twitter"
+    URL: "https://twitter.com/elya365"
 
 # newsletter
 newsletter:
