@@ -265,7 +265,7 @@ contact:
   enable: true
   title: "Contact"
   form:
-    enable: false
+    enable: true
     action: "mailto:elyasimukka+contactform@gmail.com"
     full_name: "Full Name"
     email: "Email Address"
