@@ -6,7 +6,7 @@ showcase:
   description: "Agencies trust me to be a contributing partner on their most valuable work. I'm a digital marketing consultant. Find greater confidence in your next project when you work with me."
   image:
     x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash.png"
-    _2x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash.png"
+    _2x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-2x.png"
   imageMobile:
     x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-mobile.png"
 
@@ -247,7 +247,7 @@ testimonial:
         _2x: "img/testimonials/Jessica_Seidel_pahlisch_homes_2x.png"
 
     - name: "Jason Myhre"
-      position: "Pahlisch Homes, Marketing Manager"
+      position: "Pahlisch Homes, Marketing Director"
       content: "I worked closely with Elya and witnessed firsthand the excellence that she brings. Her attention to detail, strategic thinking, drive for continuous learning and strong communication skills make her a valued asset."
       image:
         x: "img/testimonials/Jason_Myhre.png"
