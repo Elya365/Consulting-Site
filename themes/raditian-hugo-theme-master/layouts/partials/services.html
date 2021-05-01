@@ -16,6 +16,7 @@
                 <p class="lead">
                     {{ .Site.Data.homepage.services.description }}
                 </p>
+                {{ if .Site.Data.homepage.services.button.enable }}
                 <a href="{{ .Site.Data.homepage.services.button.URL | absURL }}" class="btn btn-primary"
                    target="_blank">
                     <i class="{{ .Site.Data.homepage.services.button.icon }}"></i>
@@ -26,6 +27,7 @@
                     <i class="{{ .Site.Data.homepage.services.button2.icon }}"></i>
                     {{ .Site.Data.homepage.services.button2.btnText }}
                 </a>
+                {{ end }}
             </div>
         </div>
     </div>
