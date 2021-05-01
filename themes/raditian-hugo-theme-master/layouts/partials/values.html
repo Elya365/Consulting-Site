@@ -1,0 +1,24 @@
+{{ if .Site.Data.homepage.values.enable }}
+<section class="section section--border-bottom rad-animation-group">
+    <div class="container">
+        <div class="row rad-fade-down">
+            <div class="col-12">
+                <h2>{{ .Site.Data.homepage.values.title }}</h2>
+                <div class="row pt-2 pt-md-4">
+                    {{ range .Site.Data.homepage.values.items }}
+                    <div class="col-12 col-sm-6 mb-4 mb-sm-0">
+                        <div class="values">
+                            <div class="values__date">{{ .year }}</div>
+                            <div class="values__title">{{ .university }}</div>
+                            <div class="values__degree">
+                                {{ .degree }}
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}

@@ -1,0 +1,196 @@
+title: SEO Consultant For Agencies | Technical Online Marketing Services | Optimize Everything
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I’m Elya Simukka."
+  subtitle: "I consult with agencies."
+  description: "Agencies trust me to be a contributing partner on their most valuable work. I'm a digital marketing consultant. Find greater confidence in your next project when you work with me."
+  image:
+    x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash.png"
+    _2x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-2x.png"
+  imageMobile:
+    x: "img/showcase/oslo-opera-malde-3VCrw7nHH4A-unsplash-mobile.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "mailto:elyasimukka+contactform@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/elyasimukka"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/simukkaconsulting/"
+
+    - icon: "github"
+      URL: "https://github.com/elya365"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/elya365"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+
+  content: <p class="lead">I white label my SEO and technical marketing services to agencies that want better client outcomes. I've been at this for 9+ years.</p>
+    <p class="lead">When marketing agencies need to round out their client offerings with SEO services and more, I can help. Together we get essential work done, & done well.</p>
+    <p class="lead">It's a win-win.</p>
+    <p class="lead">Right now, I still have some capacity. Want to work together?</p>
+    <p class="lead">Skip to the good stuff, and claim your call.</p>
+    <p class="lead"><a href="https://calendly.com/elyasimukka/15min" target="_blank">Schedule With Elya using Calendly</a></p>
+    <p class="lead">When I'm not working, you can find me eating tacos. Probably.</p>
+
+  button:
+    icon: "icon-smile-fill"
+    btnText: "More About Me"
+    URL: "https://www.linkedin.com/in/elyasimukka"
+  image:
+    x: "img/who-am-i/elya-simukka-profile.jpg"
+    _2x: "img/who-am-i/elya-simukka-profile-2x.jpg"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "PSU Center For Executive & Professional Education"
+      year: "2017"
+      degree: "Digital Marketing Certificate"
+
+    - university: "Portland State University"
+      year: "2008-2012"
+      degree: "BA Art History & Psychology Minor"
+
+# experience
+experience:
+  enable: false
+
+# services
+services:
+  enable: true
+  title: "Services"
+  description: "Agencies collaborate with me to help with challenging online marketing projects. I blend with teams as a contributor and thought partner with the following services."
+  button2:
+    enable: false
+    icon: "icon-profile-fill"
+    btnText: "Print My Services"
+    URL: "#"
+
+  items:
+    - title: "Digital Marketing Strategy"
+      company: ""
+      duration: "Core Services:"
+
+    - title: "Search Engine Optimization (SEO)"
+      company: "with emphasis on technical, local & content SEO"
+      duration: ""
+
+    - title: "Web Analytics"
+      company: ""
+      duration: ""
+
+    - title: "Reporting & Dashboards"
+      company: ""
+      duration: ""
+
+    - title: "Website Conversion Rate Optimization (CRO) & User Experience (UX)"
+      company: ""
+      duration: ""
+
+    - title: "Digital Advertising (Search, Native, Social Media)"
+      company: ""
+      duration: "Other Services:"
+
+    - title: "Social Media Strategy"
+      company: ""
+      duration: ""
+
+# values
+education:
+  enable: true
+  title: "Values"
+  description: "hi, this is a test."
+  items:
+    - university: "Default to Transparency"
+      year: ""
+      degree: "Be up-front about what I do and how it’s done. Help when I can, refer when I can’t."
+
+    - university: "Try easier"
+      year: ""
+      degree: "Apply lean principles. Work smarter, not harder."
+
+    - university: "Respect & Empathy Are Non-negotiable"
+      year: ""
+      degree: ""
+
+    - university: "Be an Ally for Access"
+      year: ""
+      degree: "Promote web accessibility best practices. Give stakeholders access & education. Consider the bots; so write an effective robots.txt file, etc."
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Jessica Seidel"
+      position: "Signify Agency, Owner"
+      content: "I've never met anyone that has such focus and dedication to a project as Elya. I've seen her manage large teams of sales people and strategize on in-depth digital marketing campaigns. I highly recommend her to any professional organization."
+      image:
+        x: "img/testimonials/Jessica_Seidel_pahlisch_homes.png"
+        _2x: "img/testimonials/Jessica_Seidel_pahlisch_homes_2x.png"
+
+    - name: "Jason Myhre"
+      position: "Pahlisch Homes, Marketing Director"
+      content: "I worked closely with Elya and witnessed firsthand the excellence that she brings. Her attention to detail, strategic thinking, drive for continuous learning and strong communication skills make her a valued asset."
+      image:
+        x: "img/testimonials/Jason_Myhre.png"
+        :_2x: "img/testimonials/Jason_Myhre_2x.png"
+
+    - name: "Jess Columbo"
+      position: "Tiller Marketing Agency, Founder"
+      content: "Elya's rich expertise in SEO and digital advertising adds a great deal to our practice & to our clients' program success. I recommend her technical marketing services to any team looking for a partner who cares deeply about goals, quality of work delivered, & about taking good care of relationships with colleagues and clients."
+      image:
+        x: "img/testimonials/Jess_Columbo_Tiller_Marketing.png"
+        _2x: "img/testimonials/Jess_Columbo_Tiller_Marketing_2x.png"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    enable: false
+  phone:
+    title: "Phone Number"
+    number: "+1 503 928 8826"
+  email:
+    title: "Email"
+    email: '<a href="mailto:elyasimukka+contactform@gmail.com">elyasimukka@gmail.com</a>'
+  address:
+    title: "Location"
+    address: "Oslo, Norway"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+  socialLinks:
+  - icon: "linkedin"
+    URL: "https://www.linkedin.com/in/elyasimukka"
+
+  - icon: "instagram"
+    URL: "https://www.instagram.com/simukkaconsulting/"
+
+  - icon: "github"
+    URL: "https://github.com/elya365"
+
+  - icon: "twitter"
+    URL: "https://twitter.com/elya365"
+
+# newsletter
+newsletter:
+  enable: false
