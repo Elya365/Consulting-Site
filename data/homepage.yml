@@ -272,7 +272,7 @@ contact:
     message: "Type Your Message Here"
   phone:
     title: "Phone Number"
-    number: "+47 92 31 51 30"
+    number: "+1 503 928 8826"
   email:
     title: "Email"
     email: '<a href="mailto:elyasimukka+contactform@gmail.com">elyasimukka@gmail.com</a>'
